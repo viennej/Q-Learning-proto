@@ -1,4 +1,4 @@
-#Server AI
+<H2>Server AI</H2>
 Initial implementation to test Q-Learning in python 2.7
 
 
